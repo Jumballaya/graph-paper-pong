@@ -1,5 +1,3 @@
-import { Vec3 } from "../math/types/math.types";
-
 export type VertexLayout = {
     data: Float32Array;
     stride: number;
