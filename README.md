@@ -1,4 +1,4 @@
-#Graph Paper Pong
+# Graph Paper Pong
 
 [Play the game](https://jumballaya.github.io/graph-paper-pong/)
 
