@@ -5,6 +5,6 @@ export default defineConfig(({ mode }) => {
         return {};
     }
     return {
-        base: '/Breakout-WebGL2/'
+        base: '/graph-paper-pong/'
     };
 });
